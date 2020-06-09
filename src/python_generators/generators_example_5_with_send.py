@@ -1,5 +1,6 @@
 import random
 
+
 class StarDestroyer():
     def fire_plasma_cannon(self):
         plasma_blast_generator = self.generate_plasma_blast()
